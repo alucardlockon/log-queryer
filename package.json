@@ -1,0 +1,19 @@
+{
+  "name": "log-queryer",
+  "version": "0.1.0",
+  "description": "my log file query tool",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/alucardlockon/log-queryer",
+  "keywords": [
+    "Electron",
+    "log"
+  ],
+  "author": "alucardlockon",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "~1.6.2"
+  }
+}
